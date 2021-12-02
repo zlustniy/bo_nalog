@@ -1,0 +1,15 @@
+.idea/*
+db.sqlite3
+venv
+/.env
+__pycache__/
+*.py[cod]
+docker-compose-dev.yml
+local*.py
+src/logs/*.log
+src/media/*
+!src/media/.empty
+.vscode
+helm/charts
+helm/Chart.lock
+helm/**/*.yaml.dec

@@ -1,0 +1,2 @@
+class ReportFileNotFoundException(Exception):
+    pass
